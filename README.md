@@ -2,7 +2,7 @@
 - 👀 I’m interested in sql , data analysis & database development  
 - 🌱 I’m currently learning pl-sql
 - 💞️ I’m looking to collaborate on sql project 
-- 📫 How to reach me shreeshrivas3@gmail.com
+- 📫 How to reach me shrimantshrivastava24@gmail.com
 
 
 <!---
